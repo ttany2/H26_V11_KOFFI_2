@@ -1,2 +1,3 @@
 # Devenir Partagés. Pratiques de l'IA
-![L'exposition] (galerie_UDM/photo/cartedebut_travail.jpg)
+
+![L'exposition](photo/cartedebut_travail.jpg)

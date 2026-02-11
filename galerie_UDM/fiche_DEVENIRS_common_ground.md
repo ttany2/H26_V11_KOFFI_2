@@ -4,4 +4,4 @@
 
 ## Lieu de l'exposition
 
-![L'entrée](galerie_UDM/photo/entrer_travail.jpg)
+![L'entrée](photo/entrer_travail.jpg)

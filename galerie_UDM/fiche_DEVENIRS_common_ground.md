@@ -36,5 +36,5 @@ L'installation est intéractive. Il faut regarder mais aussi porter le bandeau a
 
 ![croquis](photo/croquis.jpg)
 ## Composantes et techniques
-
+![composantes](photo/dispositif_travail.jpg)
 

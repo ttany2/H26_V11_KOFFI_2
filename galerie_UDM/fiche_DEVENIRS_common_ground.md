@@ -34,4 +34,7 @@ L'installation est intéractive. Il faut regarder mais aussi porter le bandeau a
 
 ## Mise en espace
 
+![croquis](photo/iPad mini 8.3 - 1 (1).png)
+## Composantes et techniques
+
 

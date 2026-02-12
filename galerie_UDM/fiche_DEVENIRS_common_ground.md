@@ -55,3 +55,7 @@ L'installation est intéractive. Il faut regarder mais aussi porter le bandeau a
 Je me suis assise sur la table en verre et mis le bandeau autour de ma tête. Rapidement, j'ai remarqué que sur l'écran où il y avait les lignes, elles ont commencer à se calmer en même temps que j'essayait de rester calme et de ne penser à rien. Après quelques minute, je me suis levé et mis le bandeau sur la table où je l'avait ramasser.
 
 ![bandeau](photo/bandeau_travail.jpg) ![table](photo/table_travail.jpg)
+## Ce qui m'a plu et donner des idées
+Ce qui m'a plu c'est le fait que les lignes bougeait selon ce qu'elles détectait comme activités qui se passait dand ma tête. Aussi, j'aime bien l'image qui est dans le deuxième moniteur. Le fait qu'elle change est très intéressant et intiguant.
+### Références
+[Galerie université de montréal](https://galerie.umontreal.ca/)

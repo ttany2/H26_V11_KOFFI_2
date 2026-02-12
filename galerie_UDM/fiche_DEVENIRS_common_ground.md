@@ -12,4 +12,5 @@ Le vendredi 30 janvier 2026.
 
 ## Titre de l'oeuvre
 *Common ground* ou Terre commune en français.
-![Common ground]()
+
+![Common ground](photo/expototal_travail.jpg)

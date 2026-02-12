@@ -29,4 +29,8 @@ L'oeuvre marche avec l'activité cérébrale d'une personne à l'aide d'ondes. I
 ## type d'installation
 L'installation est intéractive. Il faut regarder mais aussi porter le bandeau afin de voir un résultat sinon rien s'affichera sur le moniteur.
 
-##
+## Fonction du dispositif multimédia
+Ça fonction est d'explorer la cognitive humaine, IA et le monde extérieur avec une IA générative pour la méditation et comment la technologie peut nous aider.
+
+## Mise en espace
+

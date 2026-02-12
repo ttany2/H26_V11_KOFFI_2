@@ -4,4 +4,5 @@
 
 ## Lieu de l'exposition
 
-![L'entrée](photo/entrer_travail.jpg)
+![La galérie de l'université de Montréal](photo/entrer_travail.jpg)
+## Type d'exposition

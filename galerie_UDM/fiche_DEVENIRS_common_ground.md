@@ -23,3 +23,10 @@ En 2025.
 
 ## Description de l'oeuvre
 
+![Common ground](photo/cartecommonground-travail.jpg)
+L'oeuvre marche avec l'activité cérébrale d'une personne à l'aide d'ondes. Il faut mettre un genre de bandeau sur son front.Le bandeau va detercter les activités cérébrales.
+
+## type d'installation
+L'installation est intéractive. Il faut regarder mais aussi porter le bandeau afin de voir un résultat sinon rien s'affichera sur le moniteur.
+
+##

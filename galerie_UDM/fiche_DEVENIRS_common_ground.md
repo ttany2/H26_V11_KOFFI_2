@@ -14,3 +14,12 @@ Le vendredi 30 janvier 2026.
 *Common ground* ou Terre commune en français.
 
 ![Common ground](photo/expototal_travail.jpg)
+
+## Nom de l'artiste
+**Marion schneider**
+
+## Année de réalisation
+En 2025.
+
+## Description de l'oeuvre
+

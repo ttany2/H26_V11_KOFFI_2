@@ -1,6 +1,6 @@
 # **Devenir Partagés. Pratiques de l'IA**
 
-![L'exposition]()
+![L'exposition](photo/cartedebut_travail.jpg)
 ![Common ground cartel](photo/carteexplication_travail.jpg)
 ## Lieu de l'exposition
 ![La galérie de l'université de Montréal](photo/entrer_travail.jpg)

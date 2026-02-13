@@ -26,7 +26,7 @@ En 2025.
 ![Common ground](photo/cartecommonground-travail.jpg)
 L'oeuvre marche avec l'activité cérébrale d'une personne à l'aide d'ondes. Il faut mettre un genre de bandeau sur son front.Le bandeau va détecter les activités cérébrales.
 
-## type d'installation
+## Type d'installation
 L'installation est intéractive. Il faut regarder mais aussi porter le bandeau afin de voir un résultat sinon rien s'affichera sur le moniteur.
 
 ## Fonction du dispositif multimédia

@@ -30,7 +30,7 @@ L'oeuvre marche avec l'activité cérébrale d'une personne à l'aide d'ondes. I
 L'installation est intéractive. Il faut regarder mais aussi porter le bandeau afin de voir un résultat sinon rien s'affichera sur le moniteur.
 
 ## Fonction du dispositif multimédia
-Ça fonction est d'explorer la cognitive humaine, IA et le monde extérieur avec une IA générative pour la méditation et comment la technologie peut nous aider.
+Sa fonction est d'explorer la cognitive humaine, IA et le monde extérieur avec une IA générative pour la méditation et comment la technologie peut nous aider.
 
 ## Mise en espace
 
@@ -39,6 +39,7 @@ L'installation est intéractive. Il faut regarder mais aussi porter le bandeau a
 ![composante1](photo/dispositif_travail.jpg)
 ![composante2](photo/lignes_travail.jpg)
 ![composante3](photo/ecran_travail.jpg)
+![composante4](photo/lumieres_et_projecteurs_travail.jpg)
 1. Image exposé
 2. 1 écran qui illustre l'activité cérébrale avec des lignes colorées
 3. Un aute écran qui présente des image venant de la database

@@ -14,7 +14,7 @@ Le premier égout collecteur.
 ### Firme et année de réalisation
 L'installation a été créée le 17 mai 2017 pour le 375e anniversaire de Montréal et la firme qui l'a créée est Moment Factory, mais l'égout-même existe depuis les années 1800'.
 
-### Description de l'oeuvre
+### Description du dispositif
 
 ![cartel](photo/cartel.jpg)
 
@@ -40,12 +40,14 @@ La fonction de cette oeuvre est vraiment la mise en valeur. L'intention derrièr
 
 - Système d'éclairage LED
 - Audio Spatialisé
-- Projecteurs
+- Projecteurs (14)
 
 ## Éléments nécessaires à la mise en exposition
 1. La structure métallique en bas, qui donne une meilleure façon d'accéder et marcher à travers l'égout, et en même temps protège le sol original.
 2. Les câbles sont bien dissimulés afin que l'expérience soit pleine et parfaite.
 3. Le système de ventilation qui empêche l'humidité de gâcher l'expérience.
+4. Le téléviseur qui aide à la projection.
+![téléviseur](photo/televiseur.jpg)
 
 ## Expérience vécue
 Cette expérience a été très intrigante, ce qui est la raison pour laquelle je l'ai choisie. Dès que je suis rentré dans l'installation, plusieurs détails ont attiré mes yeux : les lumières LED, les quelques projections, d'autres passages de de l'égout qui me faisaient me poser plusieurs questions comme, ça ressemble à quoi là-dedans et etc.

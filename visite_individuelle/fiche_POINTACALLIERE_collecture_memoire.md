@@ -34,6 +34,8 @@ La fonction de cette oeuvre est vraiment la mise en valeur. L'intention derrièr
 
 ![haut-parleur](photo/haut_parleur.jpg)
 
+![projection](photo/projection.jpg)
+
 - Système d'éclairage LED
 - Audio Spatialisé
 - Projecteurs

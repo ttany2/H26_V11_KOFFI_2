@@ -18,19 +18,19 @@ L'installation a été créée le 17 mai 2017 pour le 375e anniversaire de Montr
 
 ![cartel](photo/cartel.jpg)
 
-Le premier égout collecteur est une installation visant à mettre en valeur ce grand égout qui a été construit entre 1832 et 1838. Au paravant, il a servi a la canalisation des eaux de la Petite rivière,
-puis a filtré l'eau d'une autre rivière.
+Le premier égout collecteur est une installation visant à mettre en valeur ce grand égout qui a été construit entre 1832 et 1838. Auparavant, il a servi à la canalisation des eaux de la Petite rivière, puis a filtré l'eau d'une autre rivière.
 
-Type d'installation : Elle est contemplative. On ne peut que observer, rien à toucher et il n'y a pas vraiment un atmosphère établi. 
+Type d'installation : Elle est contemplative et un peu immersive. On ne peut qu'observer, rien toucher, mais  il y a quand même une atmosphère établie.
 
 ## Fonction du dispositif multimédia 
-La fonction de cette oeuvre est vraiment la mise en valeur. L'intention derrière cette installation est de dévoilé au public une infrastructure historique qui servait à l'époque, rien de plus.
+La fonction de cette oeuvre est vraiment la mise en valeur. L'intention derrière cette installation est de dévoiler au public une infrastructure historique qui servait à l'époque, rien de plus.
 
 ## Croquis
 
 -
 
 ## Composantes et techniques
+![caison dde basses]()
 - Système d'éclairage LED
 - Audio Spatialisé
 - Projecteurs

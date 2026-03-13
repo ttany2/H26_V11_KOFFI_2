@@ -1,6 +1,6 @@
 # Collecteur de mémoires
 ## Point à callière
-![alt text] (visite_individuelle/photo/pointe_calliere_musee.jpg)
+![alt text](photo/pointe_calliere_musee.jpg)
 
 > Type d'exposition : permanente et intérieure.
 ### Date de visite

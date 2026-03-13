@@ -30,9 +30,7 @@ La fonction de cette oeuvre est vraiment la mise en valeur. L'intention derrièr
 -
 
 ## Composantes et techniques
-![caison de basses](photo/caisson_de_basses.jpg)
-
-![haut-parleur](photo/haut_parleur.jpg)
+![caison de basses](photo/caisson_de_basses.jpg)  ![haut-parleur](photo/haut_parleur.jpg)
 
 ![projection](photo/projection.jpg)
 

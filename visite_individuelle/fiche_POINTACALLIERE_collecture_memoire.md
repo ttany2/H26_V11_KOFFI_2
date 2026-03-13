@@ -16,6 +16,9 @@ Le premier égout collecteur.
 ![deuxième passage](photo/deuxieme_passage.jpg) ![tuyau](photo/tuyau.jpg)
 
 ### Firme et année de réalisation
+
+![logo moment factory, pas de moi](photo/moment_factory_logo.jpg)
+
 L'installation a été créée le 17 mai 2017 pour le 375e anniversaire de Montréal et la firme qui l'a créée est Moment Factory, mais l'égout-même existe depuis les années 1800'.
 
 ### Description du dispositif

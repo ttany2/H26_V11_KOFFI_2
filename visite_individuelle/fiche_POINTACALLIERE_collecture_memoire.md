@@ -30,7 +30,7 @@ La fonction de cette oeuvre est vraiment la mise en valeur. L'intention derrièr
 -
 
 ## Composantes et techniques
-![caison dde basses]()
+![caison dde basses](photo/caisson_de_basses.jpg)
 - Système d'éclairage LED
 - Audio Spatialisé
 - Projecteurs

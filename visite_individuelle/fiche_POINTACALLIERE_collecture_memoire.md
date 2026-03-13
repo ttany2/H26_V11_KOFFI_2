@@ -43,18 +43,18 @@ La fonction de cette oeuvre est vraiment la mise en valeur. L'intention derrièr
 - Projecteurs
 
 ## Éléments nécessaires à la mise en exposition
-1. La structure métallique en bas qui donne une meilleur facon d'acceder et marcher a travers l'égout et en meme temps protege le sol original.
-2. Le cables sont bien dissimulé afin que l'expérience soiot pleine et parfaite.
-3. Le système de ventilation qui empêche l'humidité de gacher l'expérience.
+1. La structure métallique en bas, qui donne une meilleure façon d'accéder et marcher à travers l'égout, et en même temps protège le sol original.
+2. Les câbles sont bien dissimulés afin que l'expérience soit pleine et parfaite.
+3. Le système de ventilation qui empêche l'humidité de gâcher l'expérience.
 
 ## Expérience vécue
-Cette expérience a été très intriguante ce qui est la raison pourquoi je l'ai choisi. Dès que je suis rentré dans l'installation, plusieurs détails a attirer mes yeux ; les lumières LED, les quelques projections, d'autres passages de de l'égout qui me faisait me poser plusieurs questions comme, sa ressemble à quoi là-dedans et etc.
+Cette expérience a été très intrigante, ce qui est la raison pour laquelle je l'ai choisie. Dès que je suis rentré dans l'installation, plusieurs détails ont attiré mes yeux : les lumières LED, les quelques projections, d'autres passages de de l'égout qui me faisaient me poser plusieurs questions comme, ça ressemble à quoi là-dedans et etc.
 
 ### Ce qui m'a plu
-Ce que j'ai bien plu était l'ambiance. En dirais vraiment que j'étais dans un égout fonctionnel. Aussi, l'égout avait l'air intact et sa à piqué encore plus ma curiosité. Je trouve qu'ils ont bien fait de garder l'apparence initial de l'égout et de l'avoir parfaitement conserver et c'est impressionnant à mon avis.
+Ce que j'ai bien plu était l'ambiance. On dirait vraiment que j'étais dans un égout fonctionnel. Aussi, l'égout avait l'air intact et ça a piqué encore plus ma curiosité. Je trouve qu'ils ont bien fait de garder l'apparence initiale de l'égout et de l'avoir parfaitement conservée, et c'est impressionnant à mon avis.
 
 ## Aspect que je ne souhaite pas retenir
-Je pense qu'un aspect que je ne souhaite retenir est le manque d'information sur l'égout. Quand je suis allé, j'attendais à ce qu'il est un cartel où son histoire serait raconter. Malheureusement, rien et j'ai du consulter la page du musée afin de trouver cette information ce que je pense est dommage.
+Je pense qu'un aspect que je ne souhaite retenir est le manque d'information sur l'égout. Quand je suis allée, j'attendais à ce qu'il y ait un cartel où son histoire serait racontée. Malheureusement, rien et j'ai dû consulter la page du musée afin de trouver cette information. Ce que je pense est dommage.
 
 # Références 
 - [Point à callière photo](https://www.tourbytransit.com/montreal/things-to-do/Museum-of-Archaeology-and-History)

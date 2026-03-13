@@ -7,7 +7,7 @@
 Le 21 février 2026.
 
 ## Titre de l'oeuvre
-Le premier égout collecteur.
+**Le premier égout collecteur.**
 
 ![vue d'ensemble](photo/vue_ensemble.jpg) ![mur](photo/mur.jpg)
 

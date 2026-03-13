@@ -71,3 +71,5 @@ Je pense qu'un aspect que je ne souhaite retenir est le manque d'information sur
 # Références 
 - [Point à callière photo](https://www.tourbytransit.com/montreal/things-to-do/Museum-of-Archaeology-and-History)
 - [informations sur l'égout](https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/)
+- [Moment Factory photo lien](https://seeklogo.com/images/M/moment-factory-logo-39A6DC5155-seeklogo.com.png)
+- Autres photos ont été prises par Tanya Mariella Koffi.

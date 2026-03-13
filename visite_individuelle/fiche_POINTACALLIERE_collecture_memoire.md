@@ -16,7 +16,7 @@ L'installation a été créée le 17 mai 2017 pour le 375e anniversaire de Montr
 
 ### Description de l'oeuvre
 
-![cartel](photo/cartel.jpg)
+![cartel]()
 
 Le premier égout collecteur est une installation visant à mettre en valeur ce grand égout qui a été construit entre 1832 et 1838. Au paravant, il a servi a la canalisation des eaux de la Petite rivière,
 puis a filtré l'eau d'une autre rivière.

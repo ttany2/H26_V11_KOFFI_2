@@ -30,11 +30,9 @@ La fonction de cette oeuvre est vraiment la mise en valeur. L'intention derrièr
 -
 
 ## Composantes et techniques
-![caison de basses](photo/caisson_de_basses.jpg)  ![haut-parleur](photo/haut_parleur.jpg)
+![caison de basses](photo/caisson_de_basses.jpg)  
 
-![projection](photo/projection.jpg)
-
-![lumières](photo/lumieres.jpg)
+![haut-parleur](photo/haut_parleur.jpg) ![projection](photo/projection.jpg) ![lumières](photo/lumieres.jpg)
 
 - Système d'éclairage LED
 - Audio Spatialisé

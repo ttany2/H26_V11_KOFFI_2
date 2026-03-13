@@ -27,7 +27,9 @@ La fonction de cette oeuvre est vraiment la mise en valeur. L'intention derrièr
 
 ## Croquis
 
--
+![premier croquis](photo/croquis_ premier.jpg)
+
+![deuxième croquis](photo/croquis_deuxième.jpg)
 
 ## Composantes et techniques
 ![caison de basses](photo/caisson_de_basses.jpg)  

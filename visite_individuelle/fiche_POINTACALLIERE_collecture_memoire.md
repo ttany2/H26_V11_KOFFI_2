@@ -12,11 +12,11 @@ Le premier égout collecteur.
 ![vue d'ensemble](photo/vue_ensemble.jpg)
 
 ### Firme et année de réalisation
-L'installation a été créée le 17 mai 2017 pour le 375e anniversaire de Montréal et la firme qui l'a créée est Moment Factory mais l'égout-même existe depuis les années 1800'.
+L'installation a été créée le 17 mai 2017 pour le 375e anniversaire de Montréal et la firme qui l'a créée est Moment Factory, mais l'égout-même existe depuis les années 1800'.
 
 ### Description de l'oeuvre
 
-- cartel
+![cartel](photo/cartel.jpg)
 
 Le premier égout collecteur est une installation visant à mettre en valeur ce grand égout qui a été construit entre 1832 et 1838. Au paravant, il a servi a la canalisation des eaux de la Petite rivière,
 puis a filtré l'eau d'une autre rivière.

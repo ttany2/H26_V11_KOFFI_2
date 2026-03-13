@@ -1,6 +1,7 @@
 # Collecteur de mémoires
 ## Point à callière
--pointacalliere
+![alt text](visite_individuelle/photo/pointe_calliere_musee.jpg)
+
 > Type d'exposition : permanente et intérieure.
 ### Date de visite
 Le 21 février 2026.

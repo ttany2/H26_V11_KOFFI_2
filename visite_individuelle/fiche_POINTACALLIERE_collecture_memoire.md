@@ -47,6 +47,7 @@ La fonction de cette oeuvre est vraiment la mise en valeur. L'intention derrièr
 2. Les câbles sont bien dissimulés afin que l'expérience soit pleine et parfaite.
 3. Le système de ventilation qui empêche l'humidité de gâcher l'expérience.
 4. Le téléviseur qui aide à la projection.
+
 ![téléviseur](photo/televiseur.jpg)
 
 ## Expérience vécue

@@ -27,7 +27,7 @@ La fonction de cette oeuvre est vraiment la mise en valeur. L'intention derrièr
 
 ## Croquis
 
-![premier croquis](photo/croquis_ premier.jpg)
+![premier croquis](photo/croquis_premier.jpg)
 
 ![deuxième croquis](photo/croquis_deuxième.jpg)
 

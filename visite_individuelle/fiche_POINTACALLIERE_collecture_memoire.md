@@ -9,17 +9,11 @@ Le 21 février 2026.
 ## Titre de l'oeuvre
 Le premier égout collecteur.
 
-![vue d'ensemble](photo/vue_ensemble.jpg)
+![vue d'ensemble](photo/vue_ensemble.jpg) ![mur](photo/mur.jpg)
 
-![mur](photo/mur.jpg)
+![mur creusé](photo/mur_encastres.jpg)  ![premier passage](photo/passage.jpg)
 
-![mur creusé](photo/mur_encastres.jpg) 
-
-![premier passage](photo/passage.jpg)
-
-![deuxième passage](photo/deuxieme_passage.jpg)
-
-![tuyau](photo/tuyau.jpg)
+![deuxième passage](photo/deuxieme_passage.jpg) ![tuyau](photo/tuyau.jpg)
 
 ### Firme et année de réalisation
 L'installation a été créée le 17 mai 2017 pour le 375e anniversaire de Montréal et la firme qui l'a créée est Moment Factory, mais l'égout-même existe depuis les années 1800'.

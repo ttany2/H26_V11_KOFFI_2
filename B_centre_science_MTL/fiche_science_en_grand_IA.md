@@ -1,6 +1,10 @@
 # **La science en grand**
 
+[la science en grand](photo/science_en_grand.jpg)
+
 ## Lieu de l'exposition
+
+[centre des sciences de montréal](photo/centre_sciences_mtl.jpg)
 
 ### Type d'exposition
 Permanente et intérieure.
@@ -10,8 +14,6 @@ Le mercredi 1er Avril 2026.
 
 ## Titre de l'oeuvre
 *L'intelligence Artificielle de Element Ai*
-
-
 
 ## Nom de l'artiste
 **Element Ai**

@@ -34,6 +34,7 @@ Sa fonction est d'explorer comment avec simplement de l'IA, on peut distorsé la
 
 ## Mise en espace
 
+![croquis](photo/croquis.png)
 
 ## Composantes et techniques
 

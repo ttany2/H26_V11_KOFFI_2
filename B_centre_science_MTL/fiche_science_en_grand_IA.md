@@ -24,38 +24,34 @@ En 2026.
 ## Description de l'oeuvre
 
 
-L'oeuvre marche avec l'activité cérébrale d'une personne à l'aide d'ondes. Il faut mettre un genre de bandeau sur son front.Le bandeau va détecter les activités cérébrales.
+Le dispositif possède deux écrans. Un est pour le réglages des divers modes et l'autre est pour l'affichage / résultat du changement de mode sur les personnes qui ce place devant. 
 
 ## Type d'installation
-L'installation est intéractive. Il faut regarder mais aussi porter le bandeau afin de voir un résultat sinon rien s'affichera sur le moniteur.
+L'installation est intéractive. Il faut changer les modes pour voir différents changement.
 
 ## Fonction du dispositif multimédia
-Sa fonction est d'explorer la cognitive humaine, IA et le monde extérieur avec une IA générative pour la méditation et comment la technologie peut nous aider.
+Sa fonction est d'explorer comment avec simplement de l'IA, on peut distorsé la caméra. 
 
 ## Mise en espace
 
 
 ## Composantes et techniques
 
-1. Image exposé
-2. 1 écran qui illustre l'activité cérébrale avec des lignes colorées
-3. Un aute écran qui présente des image venant de la database
-4. Ordinateur
+1. 1 écran qui illustre le sujet et les changement apportés sur l'image
+3. Un autre écran qui présente les paramètres qu'on peut jouer avec.
+   
 
 ## Éléments nécessaires à la mise en exposition
-1. Table en verre
-2. Bandeau
-3. Ordinateur
-4. Fils
-5. Projecteur
-6. Mur blanc
-## Mon expérience vécue
-Je me suis assise sur la table en verre et mis le bandeau autour de ma tête. Rapidement, j'ai remarqué que sur l'écran où il y avait les lignes, elles ont commencer à se calmer en même temps que j'essayait de rester calme et de ne penser à rien. Après quelques minute, je me suis levé et mis le bandeau sur la table où je l'avait ramasser.
+1. Carreau orange au milieu du dispositif afin que l'écran puisse bien voir le sujet
+2. Panneau 
 
+## Mon expérience vécue
+Je me suis mise sur le carreau et je me suis vu sur l'écran. Il y avait déjà un mode appliqué sur l'image. J'ai changé de mode et sa a fait que l'image sur l'écran de moi était noir et blanc.
 
 ## Ce qui m'a plu et donner des idées
-Ce qui m'a plu c'est le fait que les lignes bougeait selon ce qu'elles détectait comme activités qui se passait dand ma tête. Aussi, j'aime bien l'image qui est dans le deuxième moniteur. Le fait qu'elle change est très intéressant et intiguant. Cependant, ce que je ferais autrement, serait de changer l'image fixe qui est exposé en une vidéo qui bouge, qui attire le regard plus parce que l'image qu'ils ont exposé n'était pas vraiment attrayant.
+Ce qui m'a plu c'est le fait qu'il y a beaucoup de modes accessible, ainsi sa garde l'intéret. Aussi, j'aime bien aussi comment le deuxieme /cran de paramètre est facile à utiliser.  Cependant, ce que je ferais autrement, serait de rajouter des sections de modes avec plusieurs thèmes. 
 ### Références
 
-Photos et croquis prises par moi, Tanya Mariella Koffi.
+Photo de science en grand : [title](https://www.example.com)
+Photo de centre des sciences de Montréal : [title](https://www.example.com)
 

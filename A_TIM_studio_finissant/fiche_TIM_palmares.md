@@ -18,3 +18,5 @@
 
 ## 5. Océan Rouge
 : Amira Tounekti, Kisty Moussally.
+
+![Océan rouge](photo/ocean_rouge_vue_ensemble.jpg)

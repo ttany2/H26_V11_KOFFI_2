@@ -52,6 +52,6 @@ Je me suis mise sur le carreau et je me suis vu sur l'écran. Il y avait déjà 
 Ce qui m'a plu c'est le fait qu'il y a beaucoup de modes accessible, ainsi sa garde l'intéret. Aussi, j'aime bien aussi comment le deuxieme /cran de paramètre est facile à utiliser.  Cependant, ce que je ferais autrement, serait de rajouter des sections de modes avec plusieurs thèmes. 
 ### Références
 
-Photo de science en grand : [title](https://www.example.com)
-Photo de centre des sciences de Montréal : [title](https://www.example.com)
+[Photo de science en grand](https://www.centredessciencesdemontreal.com/exposition-permanente/explore)
+[Photo de centre des sciences de Montréal](https://www.centredessciencesdemontreal.com/sites/default/files/styles/facebook/public/2025-05/evenement-25-ans-centre-des-sciences-montreal-2025-_12a4516-photo.jpg?itok=wtLNEnD-)
 

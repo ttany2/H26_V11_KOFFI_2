@@ -11,7 +11,7 @@ Martin Boucher en énumère plusieurs dispositifs dans la zone d'intérêt. Apr�
 ## Conclusion
 Pour conclure, j'ai apprécié cette conférence mieux que je m'y attendais. Je trouve que Martin Boucher a été bien clair avec ses explications, notamment avec chaque zone qu'il a abordée, par exemple la deuxième zone avec le jeu vidéo. La façon comment il a raconté son processus de pensée d'un manière détaillés m'a beaucoup aidé malgré le fait que je notais en même temps. Du début à la fin, j'ai compris ses intentions et c'est pourquoi j'ai bien aimé cette conférence.
 
-
+![Le garage du musée du Centre des sciences de Montréal](photo/musee-ingeniosite-garage.jpg)
 
 
 

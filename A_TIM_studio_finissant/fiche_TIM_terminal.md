@@ -90,7 +90,7 @@ Un support pédagogique qui sert, d'une façon amusante de subtilement d'apprend
 
 ### Expérience vécue
 
-Je me suis assise dans un pool et j'ai pris mon téléphone, puis je me suis connectée au jeu. La partie commence avec plusieurs joueurs et nous devons tous toucher un carré vert, et il ne faut pas se toucher. Je me suis touché moi-même dans le jeu plusieurs fois, ce qui a fait qu'on a  perdu beaucoup de fois.
+Je me suis assise dans un pouf et j'ai pris mon téléphone, puis je me suis connectée au jeu. La partie commence avec plusieurs joueurs et nous devons tous toucher un carré vert, et il ne faut pas se toucher. Je me suis touché moi-même dans le jeu plusieurs fois, ce qui a fait qu'on a  perdu beaucoup de fois.
 
 ### ❤️ Ce qui vous a plu, vous a donné des idées
 

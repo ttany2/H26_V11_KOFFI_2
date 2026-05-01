@@ -45,6 +45,8 @@ Un support pédagogique qui sert, d'une façon amusante de subtilement d'apprend
 ## Composantes et techniques
 - Ordinateur principal sur chariot (1): PC de contrôle exécutant Unity, gère le jeu, les connexions et la projection.
 
+![haut-parleur](photo/terminal_haut_parleur.jpg) ![lumieres](photo/terminal_lumieres.jpg) ![projecteur](photo/terminal_projecteur.jpg) 
+
 - Projecteur (1): Projection murale grand format pour afficher la zone de jeu commune.
 
 - Tablettes / phones (1-6): Contrôleurs utilisés par les joueurs (connexion Wi-Fi).
@@ -81,6 +83,7 @@ Un support pédagogique qui sert, d'une façon amusante de subtilement d'apprend
 
 ## Éléments nécessaires à la mise en exposition
 - Pouf gonflable
+![poufs](photo/terminal_poofs.jpg)
 - Podium code Qr
 - Fairy Lights
 - Abonnement NGrok 2 mois
